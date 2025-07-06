@@ -1,0 +1,10 @@
+L001|Admin|admin@library.com|admin123|Librarian
+S001|John Doe|john@example.com|student123|Student
+S002|Jane Smith|jane@example.com|student123|Student
+F001|Dr. Brown|brown@example.com|faculty123|Faculty
+S002|Sanjay Raghav|sanjay@gmail.com|student234|Student
+S003|PremSanthosh|rahaman@gmail.com|student345|Student
+S004|Hemanth|hemanth@gmail.com|student456|Student
+S005|Badrinath|tirlangi@gmail.com|student567|Student
+F002|Dr. Black|black@gmail.com|faculty234|Faculty
+F003|Dr. Green|green@gmail.com|faculty345|Faculty

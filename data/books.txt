@@ -1,0 +1,10 @@
+1|Introduction to C++|Bjarne Stroustrup|Addison-Wesley|2013|978-0321563842|Available|None
+2|Data Structures|Robert Sedgewick|Pearson|2011|978-0321573513|Available|None
+3|Operating Systems|Abraham Silberschatz|Wiley|2012|978-1118063330|Available|None
+4|Algorithms to Live By: The Computer Science of Human Decisions|Brian Christian, Tom Griffiths|Thomso|2010|637-8237992873|Available|None
+5|Introduction to Algorithm|Thomas.H.Cormen|Techspark|2016|879-6548774509|Available|None
+6|The C Programming Language|Brian W. Kernighan|milan|2005|954-7655430986|Available|None
+7|The Soul of a New Machine|Tracy Kidder|williamson|2001|289-7623509152|Available|None
+8|The Art of Computer Programming, Volume 1: Fundametals of Algorithm|Donald Ervin Knuth|Westrosi|2005|872-8769963593|Available|None
+9|Superintelligence: Path, Dangers, Strategies|Nick Bostrom|Andals|2021|983-7136870912|Available|None
+10|Design Patterns: Elements of Reusable objects Oriented Software|Erich Gamma, John Vlissides, Richard Helm|Mastro|2011|893-9276389173|Available|None
